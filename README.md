@@ -22,6 +22,7 @@ Sou criador do **Power Aulas** e apaixonado por transformar processos reais em s
   <img src="./assets/icons/html.png" width="44" alt="HTML" title="HTML">
   <img src="./assets/icons/css.png" width="44" alt="CSS" title="CSS">
   <img src="./assets/icons/js.png" width="44" alt="JavaScript" title="JavaScript">
+  <img src="./assets/icons/python.png" width="44" alt="Python" title="Python">
 </p>
 
 ## 📌 Conheça um pouco do meu trabalho
